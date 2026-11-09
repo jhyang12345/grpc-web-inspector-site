@@ -17,4 +17,4 @@ To preview locally:
 python3 -m http.server 8080
 ```
 
-Open http://localhost:8080/ in a browser. Extension source and support issues live at https://github.com/jhyang12345/grpc-web-devtools.
+Open http://localhost:8080/ in a browser. Extension source lives at https://github.com/jhyang12345/grpc-web-devtools. Support issues live at https://github.com/jhyang12345/grpc-web-inspector-site/issues.
